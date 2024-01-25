@@ -15,7 +15,7 @@
 
     <div class="header-flex-parent">
 
-        <div class="site-logo"><a href="<?php echo site_url();?>"><img src="<?php echo get_theme_file_uri('images/logo-peluqueria-fun-cuts-nicaragua.png') ?>" alt="Logo Fun Cuts Nicaragua" width="200" height="150" class="logo"></a> </div>
+        <div class="ng-site-logo"><a href="<?php echo site_url();?>"><img src="<?php echo get_theme_file_uri('images/ng-auto-sales-logo.jpg') ?>" alt="Logo Fun Cuts Nicaragua" width="200" height="150" class="logo"></a> </div>
 
         <div class="mobile-menu">
         
@@ -29,11 +29,8 @@
 
                 <li class="nav-items"><a href="<?php echo site_url();?>" class="nav-menu">Inicio</a></li>
                 <li class="nav-items"><a href="<?php echo site_url('/nosotros');?>" class="nav-menu">Nosotros</a></li>
-                <li class="nav-items"><a href="<?php echo site_url('/servicios');?>" class="nav-menu">Servicios</a></li>
-                <li class="nav-items"><a href="<?php echo site_url('/tienda');?>" class="nav-menu">Tienda</a></li>
-                <li class="nav-items"><a href="<?php echo site_url('/blog');?>" class="nav-menu">Blog</a></li>
                 <li class="nav-items"><a href="<?php echo site_url('/contacto');?>" class="nav-menu">Contacto</a></li>
-                <li class="nav-items"><a href="<?php echo site_url('/search');?>" class="nav-menu"><i class="fas fa-search"></i></a></li>
+                
                 
                 
             </ul>
