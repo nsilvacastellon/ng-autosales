@@ -15,7 +15,7 @@
 
     <div class="header-flex-parent">
 
-        <div class="ng-site-logo"><a href="<?php echo site_url();?>"><img src="<?php echo get_theme_file_uri('images/ng-auto-sales-logo.jpg') ?>" alt="Logo Fun Cuts Nicaragua" width="200" height="150" class="logo"></a> </div>
+        <div class="ng-site-logo"><a href="<?php echo site_url();?>"><img src="<?php echo get_theme_file_uri('images/ng-auto-sales-logo.jpg') ?>" alt="Logo NG Auto Sales" width="200" height="150" class="logo"></a> </div>
 
         <div class="mobile-menu">
         
