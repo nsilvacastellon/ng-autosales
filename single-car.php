@@ -42,6 +42,13 @@ get_header();?>
 
                 </div><!--.single-car-layout-flex-parent ends here -->
 
+                <a href="tel:213-909-6015" class="cta btns-mobile-only">Llamar Ahora</a>
+
+                <a href="sms:+951-529-3937?&body=Hi%20Norma,%20this%20is%20regarding%20the%20car%20listed%20on%20your%20website,%20Im%20interested%20in%20one%20car,%20and%20want%20to%20get%20in%20touch%20with%20you" class="cta-secondary btns-mobile-only">Enviar Texto</a>
+
+
+                <a href="<?php echo site_url('/contacto');?>" class="cta-secondary">Enviar Email</a>
+
 
                 <div class="single-car-layout-description">
 
@@ -130,8 +137,12 @@ get_header();?>
                 </div><!--.single-car-layout-images-->
 
 
+                <a href="tel:213-909-6015" class="cta btns-mobile-only">Llamar Ahora</a>
 
+                <a href="sms:+951-529-3937?&body=Hi%20Norma,%20this%20is%20regarding%20the%20car%20listed%20on%20your%20website,%20Im%20interested%20in%20one%20car,%20and%20want%20to%20get%20in%20touch%20with%20you" class="cta-secondary btns-mobile-only">Enviar Texto</a>
 
+                <a href="<?php echo site_url('/contacto');?>" class="cta-secondary">Enviar Email</a>
+            
             </div><!--.container ends here -->
 
       </section><!--.single-car-layout ends here -->  
