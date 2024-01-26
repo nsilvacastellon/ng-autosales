@@ -113,8 +113,12 @@ h1 {
 }
 
 .nav-items {
-    padding: .3rem;
+    padding: .5rem;
     
+}
+
+.nav-items:last-child {
+    padding-bottom: 2rem;
 }
 
 .nav-menu {
